@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/./frontend/generated/jar-resources",
+  "staticOutput": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "mytodo",
+  "clientServiceWorkerSource": "/home/darshan/IdeaProjects/DataBricksSchedulerClone/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
